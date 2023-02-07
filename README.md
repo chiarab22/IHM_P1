@@ -1,5 +1,7 @@
 # Fase 1 Investigación – Nos familiarizamos con el proyecto
 
+Link al repositorio : https://github.com/chiarab22/IHM_P1.git
+
 Durante esta etapa se trata de obtener la mayor cantidad de información posible y necesaria para el proyecto a realizar, tanto acerca del cliente como de los usuarios. El correcto balance entre demandas y necesidades de unos y otros es lo que lleva al éxito el producto a crear.
 
 Para ello, es importante que, antes de nada, te lee detenidamente el contenido del enunciado, navegues por el ejercicio, y leas los comentarios internos que hay en el código, que te van a ayudar.  Es importante que te familiarices con cómo está estructurado en general para poder llevar a cabo.
